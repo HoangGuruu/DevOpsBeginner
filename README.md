@@ -13,13 +13,13 @@
 | 103.   | Use EC2 Ubuntu Setup database MySQL, Postgresql |
 | 104.   | Use EC2 Ubuntu setup Full stack NextJS + NestJS |
 | 105.   | Use EC2 Ubuntu Setup Reverse Proxy Nginx for NodeJs |
-| 106.   | Work with Git | GitHub | GitHub Action |
+| 106.   | Work with Git - GitHub - GitHub Action |
 | 107.   | Use EC2 Ubuntu Setup Jenkins |
 | 108.   | Use EC2 Ubuntu Setup Jenkins With User Data |
 | 109.   | Use EC2 Ubuntu Cron Job Automation |
-| 110.   | Big Project 1st on CV | CI/CD For Full Stack ChatApp|
-| 111.   | Use Docker build Nginx | Flask | React |
-| 112.   | Use Docker NestJs | NextJs | Full Stack |
+| 110.   | Big Project 1st on CV CI/CD For Full Stack ChatApp|
+| 111.   | Use Docker build Nginx - Flask | React |
+| 112.   | Use Docker NestJs - NextJs - Full Stack |
 | 113.   | Docker MultiStage in Production Environment |
 | 114.   | Deploy Docker Images use Beanstalk |
 | 115.   | Deploy Wordpress on Lightsail Container |
@@ -27,7 +27,7 @@
 | 117.   | Docker Compose with Build Image Dockerfile |
 | 118.   | Docker Compose with Full Stack | Database |
 | 119.   | Github Action with Beanstalk Docker |
-| 120.   | Big Project 2nd on CV | CI/CD Use Docker Compose Full Stack |
+| 120.   | Big Project 2nd on CV CI/CD Use Docker Compose Full Stack |
 | 121.   | Work with simple Cluster |
 | 122.   | Work with ECS |
 | 123.   | Work with EKS Cluster  |
@@ -37,8 +37,8 @@
 | 127.   | Use Kubernetes Setup Jenkins |
 | 128.   | Use Kubernetes Work with ArgoCD to Auto Deploy |
 | 129.   | Use EKS create platform in Production Environment |
-| 130.   | Big Project 3rd on CV | CI/CD Auto deploy on Kubernetes |
-| 131.   | Day 131 | Install and Use Terraform create a simple resource S3 |
+| 130.   | Big Project 3rd on CV CI/CD Auto deploy on Kubernetes |
+| 131.   | Install and Use Terraform create a simple resource S3 |
 | 132.   | Setting Up an AWS S3 Static Website with Terraform |
 | 133.   | Use Terraform create EC2 Ubuntu |
 | 134.   | Terraform Variables |
@@ -47,7 +47,7 @@
 | 137.   | Use Terraform create EKS Cluster |
 | 138.   | Terraform Modules for EC2 |
 | 139.   | Terraform Modules for EKS Cluster |
-| 140.   | Big Project 4th on CV | Terraform Modules Three Tier Web App |
+| 140.   | Big Project 4th on CV Terraform Modules Three Tier Web App |
 | 141.   | Install Ansible on Ubuntu |
 | 142.   | Use Ansible Connect EC2 Ubuntu |
 | 143.   | Creating Ansible Playbooks with Simple Task |
@@ -57,7 +57,7 @@
 | 147.   | Use Ansible to Setup Docker and Build Image |
 | 148.   | Use Ansible to Run Docker Compose |
 | 149.   | Use Ansible to Automate Database Setup |
-| 150.   | Big Project 5th on CV | Use Ansible Setup Full CI/CD Automation |
+| 150.   | Big Project 5th on CV Use Ansible Setup Full CI/CD Automation |
 
 </center>
 
