@@ -1,3 +1,5 @@
+![Alt texts](../Images/p1.png)
+# Day 104 | Use EC2 Ubuntu setup Full stack NextJS + NestJS
 # Setup EC2 Ubuntu
 
 # Install Node v20

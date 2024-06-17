@@ -1,3 +1,6 @@
+![Alt texts](../Images/p1.png)
+
+# Day 103 | Use EC2 Ubuntu Setup database MySQL, Postgresql
 # MySQL
 1. Install MySQL
 First, update your package list and install MySQL:

@@ -1,4 +1,5 @@
-# DevOpsBeginner
+![Alt texts](../Images/p1.png)
+# Day 101 | Start with AWS Cloud Setup EC2 Ubuntu and Basic Practice
 ```bash
 #!/bin/bash
 ################ Example Shell Script #################################
