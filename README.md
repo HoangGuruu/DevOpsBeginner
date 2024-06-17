@@ -17,21 +17,18 @@
 | 107.   | Use EC2 Ubuntu Setup Jenkins |
 | 108.   | Use EC2 Ubuntu Setup Jenkins With User Data |
 | 109.   | Use EC2 Ubuntu Cron Job Automation |
-| 110.   | Big Project 1st on CV | CI/CD For Full Stack ChatApp
- |
+| 110.   | Big Project 1st on CV | CI/CD For Full Stack ChatApp|
 | 111.   | Use Docker build Nginx | Flask | React |
 | 112.   | Use Docker NestJs | NextJs | Full Stack |
 | 113.   | Docker MultiStage in Production Environment |
 | 114.   | Deploy Docker Images use Beanstalk |
-| 115.   | Deploy Wordpress on Lightsail Container
- |
+| 115.   | Deploy Wordpress on Lightsail Container |
 | 116.   | Docker Compose Setup and simple works |
 | 117.   | Docker Compose with Build Image Dockerfile |
 | 118.   | Docker Compose with Full Stack | Database |
 | 119.   | Github Action with Beanstalk Docker |
 | 120.   | Big Project 2nd on CV | CI/CD Use Docker Compose Full Stack |
-| 121.   | Work with simple Cluster
- |
+| 121.   | Work with simple Cluster |
 | 122.   | Work with ECS |
 | 123.   | Work with EKS Cluster  |
 | 124.   | Setup a Kubernetes Cluster From Zero |
