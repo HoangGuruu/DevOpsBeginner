@@ -139,7 +139,7 @@ GRANT ALL PRIVILEGES ON DATABASE mydatabase TO myuser;
 Connect to the specific database:
 
 ```bash
-\c mydatabase postgres
+\c mydatabase
 ```
 8. Create a Table
 To create a table, use the CREATE TABLE statement:
