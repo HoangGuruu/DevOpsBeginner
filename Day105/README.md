@@ -7,10 +7,11 @@
 
 sudo apt-get update // Update package list
 sudo apt-get install nginx // Install Nginx
-
-
+```
+```sh
 sudo nano /etc/nginx/sites-available/my-next-app // Create NGINX config file
-
+```
+```sh
 server {
     listen 80;
     listen [::]:80;
@@ -29,8 +30,8 @@ server {
         proxy_cache_bypass $http_upgrade;
     }
 }
-
-
+```
+```sh
 sudo ln -s /etc/nginx/sites-available/my-next-app /etc/nginx/sites-enabled // Enable NGINX site
 sudo nginx -t // Verify NGINX configuration syntax
 sudo systemctl restart nginx // Restart NGINX
