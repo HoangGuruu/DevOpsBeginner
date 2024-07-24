@@ -1,6 +1,6 @@
 ![Alt texts](../Images/p1.png)
 
-# Day 10 | 
+# Day 105 | Use EC2 Ubuntu Setup Reverse Proxy Nginx for NextJs | NodeJs
 
 ```sh
 
